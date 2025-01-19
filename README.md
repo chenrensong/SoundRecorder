@@ -58,7 +58,7 @@ dotnet run
 5. 可以在列表中查看和管理历史录音
 
 ## 项目结构
-
+```
 SoundRecorder/
 ├── Services/
 │ ├── ISpeechRecognitionService.cs # 语音识别接口
@@ -69,6 +69,7 @@ SoundRecorder/
 │ └── MainView.axaml # 主视图
 └── Models/
 └── RecordingItem.cs # 录音项模型
+```
 
 ## 贡献指南
 
