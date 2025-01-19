@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35617.110
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundRecorder", "SoundRecorder\SoundRecorder.csproj", "{DA029B44-D4BD-FFBF-B604-11949847B604}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundRecorder.Desktop", "SoundRecorder.Desktop\SoundRecorder.Desktop.csproj", "{F6C3B3F3-0FF3-309D-39A3-8A2587B23C16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA029B44-D4BD-FFBF-B604-11949847B604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA029B44-D4BD-FFBF-B604-11949847B604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA029B44-D4BD-FFBF-B604-11949847B604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA029B44-D4BD-FFBF-B604-11949847B604}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6C3B3F3-0FF3-309D-39A3-8A2587B23C16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6C3B3F3-0FF3-309D-39A3-8A2587B23C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6C3B3F3-0FF3-309D-39A3-8A2587B23C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6C3B3F3-0FF3-309D-39A3-8A2587B23C16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62F30FF8-7973-4046-B685-06394F064450}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+<Application.Resources>
+    <converters:RecordingStateColorConverter x:Key="RecordingStateColorConverter"/>
+</Application.Resources> 
